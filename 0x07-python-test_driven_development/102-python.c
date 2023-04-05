@@ -1,6 +1,5 @@
 /*
  * File: 102-python.c
- * Author: Sunday Obinna Ogbu
  */
 
 #include "Python.h"
